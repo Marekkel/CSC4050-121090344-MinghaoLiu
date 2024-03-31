@@ -1,0 +1,14 @@
+{
+    "total_score": 38,
+    "total_questions": 40,
+    "scores_by_type": {
+        "0": {
+            "correct": 14,
+            "total": 15
+        },
+        "1": {
+            "correct": 24,
+            "total": 25
+        }
+    }
+}
